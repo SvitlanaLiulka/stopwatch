@@ -1,0 +1,9 @@
+.stopwatch {
+    width: 450px;
+    height: 550px;
+    background-color: #cfcfcf46;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

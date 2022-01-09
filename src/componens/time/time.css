@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Roboto:wght@400;500&display=swap');
+
+
+.timer{
+    margin: 50px auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Lato;
+}
+  
+.timer-min{
+    font-size: 70px;
+    color:  #000;
+}
+
